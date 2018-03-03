@@ -8,6 +8,6 @@ public class TrueController {
 
     @GetMapping("/")
     private String returnTrue() {
-        return "True";
+        return "Yes go play pool!";
     }
 }
